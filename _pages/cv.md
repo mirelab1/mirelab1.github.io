@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Penn foster  – Scranton, PA
+ High School Diploma 
+
+* Pima Community college 
+General Arts 
+
+* University of Arizona 
+Interdisciplinary Studies with an emphasis on global and intercultural Understanding 
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Pet Stylist, Petco 
+  * Student Worker, Pima Community College
+  * Picture Perfect Grooming Salon
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Volunteer 
+  * Marys bridge childrens hospital 
+  * Humane Socioty Washington State
+  * Karunas Horse Senctury 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Motivated worker with strong diligence
+*	Quick to adapt to various situations
+*	Creative problem solving	
+*	Ability to collaborate and brainstorm with others
+*	Global Leadership
+
+
 
 Publications
 ======
