@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Penn foster  – Scranton, PA
- High School Diploma 
+* Penn Foster
+  * High School Diploma 
 
-* Pima Community college 
-General Arts 
+* Pima Community College
+  * General Arts 
 
 * University of Arizona 
-Interdisciplinary Studies with an emphasis on global and intercultural Understanding 
+  * Interdisciplinary Studies with an emphasis on global and intercultural Understanding 
 
 
 Work experience
 ======
-* Pet Stylist, Petco 
-  * Student Worker, Pima Community College
-  * Picture Perfect Grooming Salon
+* 2016-2019: Pet Stylist, Petco 
+* 2019-2020: Student Worker, Pima Community College
+* 2021-Present: Pet Stylist, Picture Perfect Grooming Salon
   
 
 *Volunteer 
-  * Marys bridge childrens hospital 
-  * Humane Socioty Washington State
-  * Karunas Horse Senctury 
+  * Mary Bridge Childrens Hospital 
+  * Humane Society Washington State
+  * Karunas Horse Sanctuary 
   
 Skills
 ======
@@ -39,4 +39,4 @@ Skills
 *	Quick to adapt to various situations
 *	Creative problem solving	
 *	Ability to collaborate and brainstorm with others
-*	Global Leadership
+*	Leadership skills, with global context
