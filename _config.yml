@@ -85,31 +85,31 @@ author:
   bio              : "Dog lover, dog mom"
   location         : "Tucson, AZ"
   employer         : "Picture perfect Grooming" 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "Mirelabivol1@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "mirelabivol1@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         : ""
+  dribbble         :
   flickr           :
-  facebook         : ""
+  facebook         :
   foursquare       :
   github           : "mirelab1"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mirela-bivol-221064151/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
