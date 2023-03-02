@@ -1,6 +1,6 @@
 ---
 title: "Teddy"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG-1924.jpg'>"
+excerpt: "Cattle Dog Mix<br/><img src='/images/IMG-1924.jpg'>"
 collection: portfolio
 ---
 
